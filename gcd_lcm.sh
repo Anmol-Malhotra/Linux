@@ -1,3 +1,5 @@
+# This is a program to calculate LCM and HCF
+
 is_gcdlcm()
 {
 echo "Enter first positive number"
