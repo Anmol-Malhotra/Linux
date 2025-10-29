@@ -1,0 +1,7 @@
+echo "System Information:"
+echo "1. Current working directory: $(pwd)"
+echo "2. Current Date: $(date)"
+echo "3. Logged-in Users: $(who)"
+echo "4. System Uptime: $(uptime)"
+echo "5. Disk Info: $(df -h)"
+echo "6. Executing memory: $(top)"
